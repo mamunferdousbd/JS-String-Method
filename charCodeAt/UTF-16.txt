@@ -4,5 +4,6 @@
 
     //charCodeAt() is UTF-16
     //charCodeAt() returns a number between 0 and 65535.
-
+   //  UTF-8 is encoding.
+   //UTF-8 encoding will store "hello" like this (binary): 01101000 01100101 01101100 01101100  01101111
 
