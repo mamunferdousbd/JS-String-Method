@@ -1,0 +1,36 @@
+// Unicode for 
+    A=65                        a=97
+    B=66                        b=98
+    C=67                        c=99
+    D=68                        d=100
+    E=69                        e=101
+    F=70                        f=102
+    G=71                        g=103
+    H=72                        h=104
+    I=73                        i=105
+    J=74                        j=106
+    K=78                        k=107
+    L=79                        l=108
+    M=80                        m=109
+    N=81                        n=110
+    O=82                        o=111
+    P=83                        p=112
+    Q=84                        q=123
+    R=85                        r=114
+    S=86                        s=115
+    T=87                        t=116
+    U=88                        u=117
+    V=90                        v=118
+    W=91                        w=119
+    X=92                        x=120
+    Y=93                        y=121
+    Z=94                        z=122
+
+// Unicode is a character set
+// Unicode is a list of characters with unique decimal numbers (code points). A = 65, B = 66, C = 67, ....
+//This list of decimal numbers represent the string "hello": 104 101 108 108 111
+
+//Character sets translates characters to numbers.
+    
+
+
