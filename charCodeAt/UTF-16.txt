@@ -1,0 +1,8 @@
+
+    // UTF-16 Unicode Transformation Format 
+
+
+    //charCodeAt() is UTF-16
+    //charCodeAt() returns a number between 0 and 65535.
+
+
