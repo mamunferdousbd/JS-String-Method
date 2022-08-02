@@ -24,3 +24,4 @@ console.log(result);
 // The last 6:
 var result= text.substr(-5,5);
 console.log(result);
+
